@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @DavidGodefroid
-- 👀 Symfony, PHP, JS, Docker, AWS
-- 📫 davidgodefroid@gmail.com
+👀 Symfony, PHP, JS, Docker, AWS
+📫 davidgodefroid@gmail.com
