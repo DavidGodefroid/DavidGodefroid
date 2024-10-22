@@ -1,2 +1,2 @@
-- 👀 Symfony, PHP, JS, Docker, AWS, Linux
+- 👀 Symfony, PHP, Python, GO, Docker, AWS, Linux
 - 📫 davidgodefroid@gmail.com
